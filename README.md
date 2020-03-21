@@ -7,4 +7,4 @@ A simple notebook that tests the SIR model.
 - [SIR Model](https://pt.wikipedia.org/wiki/Modelo_epid%C3%AAmico#O_Modelo_SIR)
 
 
-- ![Dedução](https://cryptpad.fr/file/#/2/file/jJOSfMInO3W7VR2se7obPhCH/?raw=true)
+- ![Dedução](sir-model.png)
